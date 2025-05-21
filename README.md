@@ -1,2 +1,3 @@
-# Financeagent2.0
-Finance Chatbot using Fastapi and Streamlit app
+# Finance Assistant
+
+Project description and setup instructions.
